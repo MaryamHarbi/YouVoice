@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/drawable/border.xml" value="0.1575" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/drawable/edittext_bg.xml" value="0.1575" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_category_product.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_employee_login.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_employee_menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_employee_reply_compliant.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_employee_show_compliant.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_employee_show_compliants.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_employee_show_place_evaluations.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_employee_show_place_menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_employee_show_place_suggestions.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_employee_show_places.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_employee_update_profile.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_places.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_splash.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_user_add_place_compliant.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_user_add_place_evaluation.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_user_add_place_suggestion.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_user_login.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_user_menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_user_register.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_user_show_compliant.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_user_show_compliants.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_user_show_place_evaluations.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_user_show_place_menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_user_show_place_suggestions.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_user_show_places.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_user_show_product_comments.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/activity_user_update_profile.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/comments_list.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/evaluations_list.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/places_list.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/row.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/YouVoice/app/src/main/res/layout/suggestions_list.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/25-5-2022 - final version/YouVoice/app/src/main/res/layout/activity_employee_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/25-5-2022 - final version/YouVoice/app/src/main/res/layout/activity_employee_update_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/25-5-2022 - final version/YouVoice/app/src/main/res/layout/activity_user_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/25-5-2022 - final version/YouVoice/app/src/main/res/layout/activity_user_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/25-5-2022 - final version/YouVoice/app/src/main/res/layout/activity_user_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/25-5-2022 - final version/YouVoice/app/src/main/res/layout/activity_user_update_profile.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

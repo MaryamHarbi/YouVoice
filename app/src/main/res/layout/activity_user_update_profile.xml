@@ -1,0 +1,144 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:stretchColumns="0,2">
+
+        <TableRow
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp">
+
+
+            <EditText
+                android:id="@+id/user_profile_name_txt"
+
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/edittext_bg"
+                android:ems="10"
+                android:hint="                                                  الاسم  "
+                android:inputType="text"
+                android:textColor="@color/colorPrimary"
+                android:enabled="false"/>
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+
+                android:text="الاسم"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/colorPrimary" />
+        </TableRow>
+
+        <TableRow
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp">
+
+
+            <EditText
+                android:id="@+id/user_profile_password_txt"
+
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/edittext_bg"
+                android:ems="10"
+                android:hint="                                             كلمة المرور"
+                android:inputType="textPassword"
+                android:textColor="@color/colorPrimary" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+
+                android:text="كلمة المرور"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/colorPrimary" />
+        </TableRow>
+
+        <TableRow
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp">
+
+
+            <EditText
+                android:id="@+id/user_profile_mobile_txt"
+
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/edittext_bg"
+                android:ems="10"
+                android:hint="                                                  الجوال  "
+                android:inputType="number"
+                android:textColor="@color/colorPrimary"
+                android:enabled="false"/>
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+
+                android:text="الجوال"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/colorPrimary" />
+        </TableRow>
+
+        <TableRow
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp">
+
+
+            <EditText
+                android:id="@+id/user_profile_email_txt"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/edittext_bg"
+                android:ems="10"
+                android:hint="                                                  الايميل  "
+                android:enabled="false"
+                android:inputType="textEmailAddress"
+                android:textColor="@color/colorPrimary" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+
+                android:text="الايميل"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/colorPrimary" />
+        </TableRow>
+
+    </TableLayout>
+
+    <Button
+        android:id="@+id/user_profile_update_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_weight="1"
+        android:background="@color/button_back"
+        android:gravity="center"
+        android:text="تحديث"
+        android:textColor="@color/button_text"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
